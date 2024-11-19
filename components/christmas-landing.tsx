@@ -8,6 +8,7 @@ import { useState } from "react"
 
 export function ChristmasLanding() {
   const [activeTab, setActiveTab] = useState('gallery')
+  console.log(activeTab);
 
   const wishes = [
     "Éxito académico",
