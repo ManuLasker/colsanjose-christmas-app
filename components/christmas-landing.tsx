@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Snowflake, Star, Calendar, Bell, MapPin, TreesIcon as Tree, Gift } from 'lucide-react'
+import { Star, Bell, TreesIcon as Tree, Gift } from 'lucide-react'
 import Image from "next/image"
 import { useState } from "react"
 
